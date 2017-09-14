@@ -1,7 +1,7 @@
 'use strict';
 
 const faker = require('faker');
-const mocks = require('../lib/mocks');
+const mocks = require('../lib/mock');
 // const User = require('../../model/user');
 const superagent = require('superagent');
 const server = require('../../lib/server');
