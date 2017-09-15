@@ -44,13 +44,13 @@
   "author": "Code Fellows, LLC",
   "license": "MIT",
   "devDependencies": {
-    "debug": "^3.0.1",
     "eslint": "^4.5.0",
     "faker": "^4.1.0",
     "jest": "^20.0.4",
     "superagent": "^3.6.0"
   },
   "dependencies": {
+    "debug": "^3.0.1",
     "aws-sdk": "^2.114.0",
     "bcrypt": "^1.0.3",
     "bluebird": "^3.5.0",
