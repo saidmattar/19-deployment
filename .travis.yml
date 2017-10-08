@@ -22,9 +22,3 @@ branches:
 before_script: npm i
 script:
   - npm run test
-# deploy:
-#   provider: heroku
-#   api_key: 8a5e4778-2feb-4fb9-ba93-3693aabe8626
-#   app:
-#     production:
-#   on: staging
